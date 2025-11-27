@@ -1,9 +1,8 @@
+![Logo](logo.png)
 📸 Modern QR Kod Oluşturucu ve Okuyucu
 
 Bu Python uygulaması, CustomTkinter kütüphanesi kullanılarak modern ve kullanıcı dostu bir grafik arayüz (GUI) ile geliştirilmiştir. Kullanıcıların metin veya URL'leri kolayca QR koda dönüştürmesine ve mevcut resim dosyalarındaki QR kodlarını 
 okuyup çözümlemesine olanak tanır.
-
-![Logo](logo.png)
 
 Özellikler
 
