@@ -1,6 +1,6 @@
 📸 Modern QR Kod Oluşturucu ve Okuyucu
 
-
+![Logo](logo.png)
 
 Bu Python uygulaması, CustomTkinter kütüphanesi kullanılarak modern ve kullanıcı dostu bir grafik arayüz (GUI) ile geliştirilmiştir. Kullanıcıların metin veya URL'leri kolayca QR koda dönüştürmesine ve mevcut resim dosyalarındaki QR kodlarını okuyup çözümlemesine olanak tanır.
 
@@ -14,7 +14,7 @@ QR Okuma: Harici bir resim dosyasındaki QR kodunu okur ve içerdiği veriyi ç�
 
 Çapraz Platform: Python'ın desteklediği herhangi bir işletim sisteminde çalışabilir.
 
-
+![Uygulama Görüntüsü](screenshot.png)
 
 Kurulum
 
