@@ -1,5 +1,9 @@
 # 📸 Modern QR Kod Oluşturucu ve Okuyucu
 
+![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=c%2B%2B)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-purple?style=for-the-badge&logo=visual-studio)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
+
 ![Logo](logo.png)
 
 Bu Python uygulaması, CustomTkinter kütüphanesi kullanılarak modern ve kullanıcı dostu bir grafik arayüz (GUI) ile geliştirilmiştir. Kullanıcıların metin veya URL'leri kolayca QR koda dönüştürmesine ve mevcut resim dosyalarındaki QR kodlarını 
