@@ -23,6 +23,11 @@ Modern Arayüz: CustomTkinter ile koyu ve açık tema destekli profesyonel tasar
 
 # 🛠️ Kurulum (Geliştiriciler İçin)
 
+Repoyu klonlayın:
+```
+git clone https://github.com/Omer-Murat/QR-Code-app.git
+```
+
 Projenin çalışması için gerekli kütüphaneleri kurmanız gerekmektedir:
 ``` bash
 # Windows (PowerShell)
@@ -33,8 +38,9 @@ pip install -r requirements.txt
 
 Tüm bağımlılıklar yüklendikten sonra, uygulamayı aşağıdaki komutla başlatabilirsiniz:
 
+``` bash
 python qr_app.py
-
+```
 
 # EXE Olarak Derleme (Windows Görev Çubuğu İkonu için Önerilir)
 
